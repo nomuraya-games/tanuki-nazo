@@ -1,0 +1,12 @@
+# 辞書ソースデータ（パブリックドメイン・再ダウンロード可能）
+# 再生成: python build_dict.py
+# 入手先: https://www.edrdg.org/jmdict/j_jmdict.html
+JMdict_e
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# 生成物（再生成可能）
+*.tsbuildinfo
